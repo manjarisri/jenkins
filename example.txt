@@ -1,0 +1,6 @@
+1 manjari 23 89
+2 aayush  23 45
+3 nitu    22 6
+4 mansi   21 8
+5 aa 22 8
+6 bb  25 9

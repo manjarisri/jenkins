@@ -21,3 +21,4 @@ echo "replacing 'manjari' with 'abc'"
 sed 's/manjari/abc/' example.txt
 #sed cmd is used to replace a text in a file.
 #here ive replaced 'manjari' with 'abc'
+
