@@ -1,4 +1,4 @@
-FROM mysql:latest
+FROM mysql:9.6.0-oraclelinux9
 
 ENV MYSQL_ROOT_PASSWORD=root
 
